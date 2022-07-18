@@ -1,0 +1,7 @@
+C:\Users\yesch\DevOpsProjects\devopswebapp\Publish\devopswebapp.exe
+C:\Users\yesch\DevOpsProjects\devopswebapp\Publish\appsettings.Development.json
+C:\Users\yesch\DevOpsProjects\devopswebapp\Publish\appsettings.json
+C:\Users\yesch\DevOpsProjects\devopswebapp\Publish\devopswebapp.dll
+C:\Users\yesch\DevOpsProjects\devopswebapp\Publish\devopswebapp.deps.json
+C:\Users\yesch\DevOpsProjects\devopswebapp\Publish\devopswebapp.runtimeconfig.json
+C:\Users\yesch\DevOpsProjects\devopswebapp\Publish\devopswebapp.pdb
